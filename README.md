@@ -19,7 +19,9 @@ The adjacency matrix is (-99 represent no edge):
 -99,-99,8,-99,0
 
 
-Instructions to execute:
+
+
+## Instructions to execute:
 1. make
 2. ./Q2_dijikstra.out {input-file}
   example: ./Q2_dijikstra.out matrix_org.txt
