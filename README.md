@@ -7,10 +7,15 @@ For example for the below graph :
 <img width="372" alt="screen shot 2017-05-25 at 10 59 57 pm" src="https://cloud.githubusercontent.com/assets/23372809/26478960/f9ebd3ce-419d-11e7-9678-58e05c9d40d6.png">
 
 The adjacency matrix is (-99 represent no edge):
+
 0,5,-99,10,15
+
 -99,0,1,4,-99
+
 -99,-99,0,2,-99
+
 -99,3,-99,0,-99
+
 -99,-99,8,-99,0
 
 Instructions to execute:
